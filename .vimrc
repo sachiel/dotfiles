@@ -140,7 +140,8 @@ let g:airline_solarized_bg='dark'
 "    execfile(activate_this, dict(__file__=activate_this))
 "EOF
 
-
+set cursorline
+set cursorcolumn
 
 
 
